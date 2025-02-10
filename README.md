@@ -78,7 +78,7 @@ Compile o projeto no VS Code utilizando a extensão Raspberry Pi Pico.
 
 # Link para o vídeo de demonstração
 
-https://drive.google.com/drive/folders/1lsMfmo8AEE4ACxMUmJ7l_WuXw7q5oCHg?usp=sharing
+https://drive.google.com/drive/folders/1VL9u0cUtNFWZGY36ZwXrD0xpRxpFrTQo?usp=sharing
 
 ## 📌 Autor
 Projeto desenvolvido por **Jeová Pinheiro** para a fase 1 do ***EmbarcaTech***.
